@@ -1,7 +1,7 @@
 {
   "name": "grunt-static-snapshot",
   "description": "The best Grunt plugin ever.",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/terabytenz/grunt-static-snapshot",
   "author": {
     "name": "lindsayjopson",
@@ -43,6 +43,7 @@
     "handlebars": "~1.1.2"
   },
   "keywords": [
-    "gruntplugin", "html"
+    "gruntplugin",
+    "html"
   ]
 }
